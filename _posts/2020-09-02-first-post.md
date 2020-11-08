@@ -1,22 +1,23 @@
 ---
-title: "블로그 포스팅 테스트01"
-date: 2020-09-02 18:00:00 -0400
-categories: jekyll update
+title: "처음으로 웹사이트를 개설"
+date: 2020-11-08 18:00:00 -0400
+categories: blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
- 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
- 
-Jekyll also offers powerful support for code snippets:
+말도 안돼 내 손으로 웹사이트를 만들기 까지 일주일을 썼다.
+왜냐면 나는 꼭  "https://hongchae20.github.io"로 내 사이트를 만들고 싶었는데
+내이름 뒤에 github.io를 만들지 않으면 404에러를 해결할 수 없었기 때문이다.
+
+내가 한 과정을 짧게 복기해보면
+1. 30개의 저장소 생성
+2. 6개의 유튜브 강좌
+3. 2개의 깃허브 아이디
+
+영어로 되어있다보니 저장소를 지우는 걸 찾는 것도 시간이 오래걸렸다.
+후아.. 말도 안돼..
+
  
 ​```python
 def print_hi(name):
   print("hello", name)
 print_hi('Tom')
 ​```
- 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
- 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
