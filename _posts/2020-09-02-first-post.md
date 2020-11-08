@@ -14,10 +14,3 @@ categories: blog
 
 영어로 되어있다보니 저장소를 지우는 걸 찾는 것도 시간이 오래걸렸다.
 후아.. 말도 안돼..
-
- 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
