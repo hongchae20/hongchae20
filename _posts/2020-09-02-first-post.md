@@ -1,7 +1,7 @@
 ---
-title: "처음으로 웹사이트를 개설"
+title: "깃 허브 _ 코딩 트레인 _강좌"
 date: 2020-11-08 18:00:00 -0400
-categories: blog
+categories: blog / github / coding
 ---
 깃 허브 _ 코딩 트레인 _강좌
 
